@@ -16,6 +16,7 @@ module.exports =
     edit: "Editing %{name}"
   
   links:
+    todos: "Todo"
     default: "%{name}"
     home: "Home"
     docs: "Docs"

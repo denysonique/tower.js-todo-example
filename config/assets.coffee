@@ -4,6 +4,8 @@ module.exports =
       "/app/client/config/application"
       "/config/routes"
       "/app/views/templates"
+      "/app/models/todo"
+      "/app/client/controllers/todosController"
     ]
     
     lib: [
@@ -45,6 +47,7 @@ module.exports =
       "/vendor/javascripts/chai"
       "/vendor/javascripts/design.io"
       "/test/client"
+      "/test/models/todoTest"
     ]
   
   stylesheets:

@@ -1,0 +1,3 @@
+App.TodoHelper =
+  todoElements: ->
+    $(".todos")
