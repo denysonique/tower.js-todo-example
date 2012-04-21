@@ -1,0 +1,19 @@
+/* TEAM */
+  Frontend:   denysonique
+  GitHub:     User
+  Twitter:    -
+  Location:   -
+  
+  Backend:    denysonique
+  GitHub:     User
+  Twitter:    -
+  Location:   -
+  
+  Mobile:     denysonique
+  GitHub:     User
+  Twitter:    -
+  Location:   -
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Tower, jQuery, Underscore.js
