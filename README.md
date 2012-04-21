@@ -1,37 +1,5 @@
 # Tower-Todo
 
-## Install
+  This is going to be a single page no refresh todo app in Tower.js
+  The app is going to take advantage of Tower.js' view/model sharing betweenthe server and client side.
 
-First [setup the Tower.js development environment](http://towerjs.org/guides/development#environment), then run:
-
-```
-git clone git@github.com:User/tower-todo.git
-cd tower-todo
-npm install
-node server
-```
-
-## Test
-
-Run tests:
-
-```
-npm test
-```
-
-Read up on [testing Tower.js apps](http://towerjs.org/guides/testing).
-
-## Deploy
-
-Read [How to deploy Tower Apps to Heroku](http://towerjs.org/guides/deployment#heroku).
-
-## Documentation
-
-- [Tower.js](http://towerjs.org/guides)
-- [MongoDB](http://www.mongodb.org/display/DOCS/Advanced+Queries)
-- [Node.js](http://nodejs.org/docs/v0.6.11/api/fs.html)
-- [Mocha](https://github.com/visionmedia/mocha)
-- [CoffeeScript](http://coffeescript.org/)
-- [Stylus](http://learnboost.github.com/stylus/)
-
-If all else fails, see the [Rails Guides](http://guides.rubyonrails.org/), should be fairly close.
